@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: contents/craw-web
+- file: contents/model-topic
+- file: contents/k-means
